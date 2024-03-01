@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Moattar Ansair</h1>
 <h3 align="center">A passionate Webdeveloper from Pakistan</h3>
 
-<img align = "right" alt = "coding girl" src = "https://tse2.explicit.bing.net/th?id=OIP.qdAW1TjCN57h1lbuuzvchgHaFj&pid=Api&P=0&h=220">
+<img align = "right" alt = "coding girl" src = "https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moattaransari&label=Profile%20views&color=0e75b6&style=flat" alt="moattaransari" /> </p>
 

@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/moattaransari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moattaransari" height="30" width="40" /></a>
-<a href="https://fb.com/Profit Code Hub " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profit code hub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moattar-ansari-b947922b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moattaransari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61554647485579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profit code hub" height="30" width="40" /></a>
 <a href="https://instagram.com/profitcodehub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moattar ansari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/profit code hub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="profit code hub" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnud6TJEyzauD3aC6iG5icg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="profit code hub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

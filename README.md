@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moattaransari&label=Profile%20views&color=0e75b6&style=flat" alt="moattaransari" /> </p>
 
-- 🌱 I’m currently learning **Generative Ai, Web3 7 Metaverse**
+🌱 I’m currently a student of governer initiative of artificial intelligence web 3.0 & metaverse and i am learning about machine learning and artificial intelligence to enhance my skills and knowledge and broaden my understanding of emerging technologies
 
 - 📫 How to reach me **moattaransari67@gmail.com**
 
